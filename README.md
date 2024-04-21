@@ -1,6 +1,7 @@
 Hi, I'm Mikołaj and I refuse to do the README properly.
 
-What did I work with (chronologically):
+Some of my stacks (client and company details not included):
+- Stack used in a (#1) client SPA project: Angular (Material), Node.js, Azure Static Web Apps, Github Actions
 - Stack used in corporate settings #2: C#, .NET, Blazor, DevExpress, WinForms, MS SQL, Azure (App Service, Functions, SQL Server, AD / Entra ID)
 - Stack used in corporate settings #1: Angular 2, Java, Spring, Hibernate, MS SQL, Azure (App Service, Functions, SQL Server, AD / Entra ID)
 - Stack used in non-profit projects: Flutter, Dart, Python 3, Fast API, PocketBase
