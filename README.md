@@ -12,11 +12,8 @@
 ### Favourites
 - Favourite Cloud: Azure
 - Favourite Low-Cost Hosting: Hetzner
-- Favourite Dog Breed: Border Collie
 - Favourite Mobile Framework: Flutter
-- Favourite Web Framework: ........Angular I guess, but Blazor is nice too
 - Favourite Backend Framework: Spring
 - Favourite .NET: .NET
 - Favourite .NET Component Library: DevExpress
-- Favourite DB: really?
 - Favourite website: https://longdogechallenge.com
